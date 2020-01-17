@@ -3,7 +3,7 @@ Ingredients:
 - 12 eggs
 - t tbsp sweet cream
 - 1 tbsp butter
-- a bunch of chives
+- a bunch of fresh chives
 - skillet
 - metal spoon
 - a portion of patience and enthusiasm
