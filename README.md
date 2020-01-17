@@ -9,6 +9,14 @@ _a^{2} = b^{2} + c^{2}_
 
 **Bold**
 
-: Definition
-| Right | Down | Left |
-|     1 |   3  |  55  |
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+
+City | Country | Population | Language
+--- | --- | --- | ---
+Paris | France | A lot | French
+Vienna | Austrian | 2M | German
