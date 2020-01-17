@@ -6,4 +6,5 @@ Ingredients:
 - a bunch of chives
 - skillet
 - metal spoon
-- :)
+- a portion of patience and enthusiasm
+:)
