@@ -17,6 +17,6 @@ Markdown | Less | Pretty
 
 
 City | Country | Population | Language
---- | --- | --- | ---
+---: | --- | --- | :---:
 Paris | France | A lot | French
 Vienna | Austrian | 2M | German
