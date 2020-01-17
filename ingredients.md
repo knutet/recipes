@@ -1,10 +1,10 @@
-Ingredients:
+#Ingredients#:
 
-- 12 eggs
-- t tbsp sweet cream
-- 1 tbsp butter
-- a bunch of fresh chives
-- skillet
-- metal spoon
-- a old rusty pan
-- a portion of patience and enthusiasm :)
+- 12 *eggs*
+- t tbsp *sweet cream*
+- 1 tbsp *butter*
+- a bunch of fresh *chives*
+- _skillet_
+- _metal spoon_
+- a _old rusty_ pan
+- a portion of _patience_ and _enthusiasm_ :)
