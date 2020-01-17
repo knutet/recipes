@@ -6,3 +6,9 @@
 
 _a^{2} = b^{2} + c^{2}_
 > Don't forget
+
+**Bold**
+
+: Definition
+| Right | Down | Left |
+|     1 |   3  |  55  |
