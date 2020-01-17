@@ -1,2 +1,2 @@
-# biogeochemistry
+# biogeothings
 Personal repository
