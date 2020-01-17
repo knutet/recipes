@@ -1,2 +1,2 @@
 # biogeothings
-Personal repository
+A repository of biogeochemical things
